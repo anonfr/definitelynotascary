@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Creepster', Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    text-align: center;
+    padding: 2rem;
+    max-width: 800px;
+}
+
+#text {
+    font-size: 2.5rem;
+    line-height: 1.4;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    line-height: 1.2;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    color: #888888;
+    margin-bottom: 3rem;
+}
+
+.timer {
+    font-size: 1.8rem;
+    color: #ff0000;
+}
+
+#time {
+    font-weight: bold;
+} 
