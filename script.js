@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
         " ",
         "Why?",
         " ",
-        "<a href='https://www.instagram.com/dhammaanand/' target='_blank' style='color: #ff0000; text-decoration: none;'>Click me to know who i am</a>"
+        "<a href='https://x.com/AnonfrXBT' target='_blank' style='color: #ff0000; text-decoration: none;'>Click me to know who i am</a>"
     ];
 
     const script2 = [
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         " ",
         "Why?",
         " ",
-        "<a href='https://www.instagram.com/dhammaanand/' target='_blank' style='color: #ff0000; text-decoration: none;'>Click me to know who i am</a>"
+        "<a href='https://x.com/AnonfrXBT' target='_blank' style='color: #ff0000; text-decoration: none;'>Click me to know who i am</a>"
     ];
 
     // Randomly choose which script to use
