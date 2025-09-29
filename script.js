@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "<a href='https://x.com/AnonfrXBT' target='_blank' style='color: #ff0000; text-decoration: none;'>Click me to know who i am</a>"
     ];
 
-    // Randomly choose which script to use
+    // Randomly choose which script to use so 
     const cards = Math.random() < 0.5 ? script1 : script2;
     
     let b = -1;
