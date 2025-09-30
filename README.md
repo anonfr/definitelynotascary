@@ -2,4 +2,4 @@
 
 A psychological thriller website 
 
-check here https://definitelynotascary.vercel.app
+check here: https://definitelynotascary.vercel.app
